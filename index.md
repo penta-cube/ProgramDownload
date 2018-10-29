@@ -9,7 +9,7 @@
 
 ### Cubic PDRC 다운로드
 
-[Cubic PDRC ver. 1.0.3.56 다운로드](https://github.com/penta-cube/ProgramDownload/blob/master/Download/CubicPDRC/Pentacube_CubicViewer_1.0.03.0056.zip?raw=true)
+[Cubic PDRC ver. 1.0.4.52 다운로드](https://github.com/penta-cube/ProgramDownload/blob/master/Download/CubicPDRC/Pentacube_CubicViewer_1.0.04.0052.zip?raw=true)
 
 ### 평가판 라이선스 신청
 
