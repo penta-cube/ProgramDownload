@@ -2,7 +2,7 @@
 
 ### Cubic LDRC 다운로드
 
-[Cubic LDRC 다운로드](https://github.com/penta-cube/ProgramDownload/blob/master/Download/CubicLDRC/Pentacube_CubicLDRC_1.0.00.0026.zip?raw=true)
+[Cubic LDRC 다운로드](https://s3.ap-northeast-2.amazonaws.com/download.penta-cube.com/LDRC/Pentacube_CubicLDRC_1.0.00.0028.zip)
 
 [소개 동영상 다운로드](https://github.com/penta-cube/ProgramDownload/blob/master/Download/CubicLDRC/CubicLDRC.mp4?raw=true)
 
